@@ -1,4 +1,4 @@
-import FullList from "../model/FUllList";
+import FullList from "../model/FullList";
 
 interface DOMList {
   ul: HTMLDListElement;
